@@ -1,7 +1,3 @@
-Certainly! Here's a sample GitHub description for your Streamlit portal:
-
----
-
 # TradeGenius Portal
 
 **Overview:**
@@ -31,8 +27,8 @@ This project is licensed under the [MIT License](LICENSE).
 [Your Name]
 
 **Connect with Us:**
-- Twitter: [@YourTwitterHandle]
-- LinkedIn: [Your LinkedIn Profile]
+- Instagram: [[@YourTwitterHandle](https://www.instagram.com/itechdp.ai)]
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/itechdp/)]
 
 ---
 
