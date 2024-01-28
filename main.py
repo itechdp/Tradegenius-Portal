@@ -6,7 +6,7 @@ def get_decimal_places(value):
     else:
         return 0
 
-st.write("<h1><style align='center'>TradeGenius Portal</style></h1>",unsafe_allow_html=True)
+st.write("<h1 style='text-align:Center'>Trade Genius Portal</h1>",unsafe_allow_html=True)
 value = st.number_input("Enter Your Value:")
 coin_name = st.text_input("Enter Coin Name:")
 types = st.selectbox(label='Select LONG or SHORT',options=['LONG',"SHORT"])
