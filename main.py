@@ -53,5 +53,5 @@ KiteKraken 👑 Premium
     ''',unsafe_allow_html=True)
 st.write('')
 st.write('')
-st.write("© 2024 TradeGenius Portal - By Dhrumil Patel")
+st.write("<b>© 2024 TradeGenius Portal - By Dhrumil Patel</b>",unsafe_allow_html=True)
 
